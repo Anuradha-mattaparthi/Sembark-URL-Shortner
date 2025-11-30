@@ -30,7 +30,7 @@ Test cases & Preview videos
 For previewing the output I have recorded videos. I have linked them here so reviewers can view them easily.
 Note: For the Superadmin role the voice is not recorded — please verify that manually. Voice/audio is present for the remaining Admin and Member recordings.
 
-Superadmin (what to check)
+Superadmin 
 
 How Superadmin is created and how the Superadmin dashboard looks.
 Superadmin can invite a company Admin by email invitation.
